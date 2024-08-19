@@ -1,0 +1,5 @@
+{
+    "host": "localhost",
+    "port": 55552,
+    "token": "your_msf_token_here"
+}
