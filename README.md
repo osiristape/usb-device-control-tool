@@ -1,6 +1,6 @@
 # USB Device Control Tool
 
-**Description**: The USB Device Control Tool is a Python-based utility designed for monitoring, blocking, and unblocking USB devices. This project was created by a student as part of a coursework or personal learning initiative to explore practical applications of Python in system administration and security.
+**Description**: The USB Device Control Tool is a Python-based utility designed for monitoring, blocking, and unblocking USB devices. This project was created by a student as part of a coursework or personal learning initiative to explore practical applications of Python in system administration and security. 
 
 # Features
 - **USB Monitoring**: Detects when USB devices are connected or disconnected from the system.
